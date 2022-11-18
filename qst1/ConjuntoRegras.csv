@@ -1,0 +1,18 @@
+SE,ENTAO
+pelo,mamifero
+leite,mamifero
+penas,ave
+plana & bota-ovos,ave
+mamifero & come-carne,carnivoro
+mamifero & dentes-pontiagudos & garras & olhos-frontais,carnivoro
+mamifero & casco,ungulado
+mamifero & rumina & dedos-pares,ungulado
+carnivoro & amarelo-tostado & manchas-escuras,leopardo
+carnívoro & amarelo-tostado & listaNegra,tigre
+ungulado & pernas-longas & pescoco-comprido & amarelo-tostado & manchas-escuras,girafa
+ungulado & branca & listaNegra,zebra
+ave & pernas-longas & pescoco-comprido & preto-e-branco,avestruz
+ave & nao-voa & nada & preto-e-branco,pinguim
+ave & bonvoador,albatroz
+ave & corpo-arredondado & plumas-densas & nao-voa & domestico,galinha
+ave & pernas-longas & pescoco-comprido & cauda-curta & rosa,flamingo
