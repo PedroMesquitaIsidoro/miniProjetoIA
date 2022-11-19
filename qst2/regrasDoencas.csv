@@ -1,0 +1,11 @@
+SE,ENTAO
+fadiga & dorCabeca & dorCorpo & dorGarganta & tosse,covid
+dorCabeca & gargantaInflamada & tosse,gripe
+cansaco & dorCabeca,mononucleoseInfecciosa
+cansaco & gargantaInflamada,emigdalite
+cansaco,estresse
+fadiga & dorCabeca & pulsacaoElevada & baixoNivelOxigenio & perdaOlfato & perdaPaladar,covid
+coriza & espirro,riniteAlergica
+dorCabeca & coriza,sinusite
+,dengue
+,chicungunha
